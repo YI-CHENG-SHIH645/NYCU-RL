@@ -1,0 +1,8 @@
+.vscode/
+.idea/
+**/.DS_Store
+**/*.pdf
+**/*.pages
+TD3
+my_TD3
+RL2022-theory-project-template
